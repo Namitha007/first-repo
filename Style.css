@@ -1,0 +1,82 @@
+.nav-item{
+    padding-right: 50px;
+    
+}
+
+.navbar{
+    background-color: darkblue;
+}
+
+.navbar-nav{
+    color: white;
+}
+
+.bg-img{
+    background-image: url("https://image.shutterstock.com/image-photo/college-students-filling-registration-forms-260nw-480293968.jpg");
+    background-size: cover;
+    height: 75%;
+}
+
+.container{
+    padding-top: 75px;
+}
+
+.card-group{
+display:flex ;}
+
+h2{
+    text-align: center;
+    color: rgb(197, 109, 26);
+    padding-top: 100px;
+
+}
+
+h1{
+    text-align: center;
+
+}
+p.lead{
+    text-align: center;
+}
+
+.des{
+    text-align: center;
+    color: rgb(197, 109, 26) ;
+    
+}
+.card{
+    background-color: rgba(0, 0, 139, 0.788);
+}
+h5{
+    text-align: center;
+    color: white;
+}
+
+.card-title{
+    text-align: left;
+    color: white;
+
+}
+
+.card-text{
+    text-align: left;
+    color: white;
+
+}
+
+.btn-primary{
+margin-left: 600px;    
+margin-top: 30px;
+}
+
+.jumb-img{
+    padding-left: 500px;
+}
+
+.card-img-top{
+    background-color: yellow;
+}
+
+.container-fluid{
+    padding-left: 100px;
+}
