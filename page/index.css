@@ -1,0 +1,49 @@
+.container-fluid{
+    padding: 8px;
+}
+.navbar{
+    background-color: rgb(12, 13, 66);
+}
+.btn {
+    background-color: yellow;
+    border-color: rgb(12, 13, 66);
+}
+
+.btn1{
+    background-color: rgb(12, 13, 66);
+    border-color: rgb(12, 13, 66);
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+.bg-img{
+    background-image: url('study.jfif');
+    height: 75%;
+    background-size: cover;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+
+p{
+    color: white;
+    text-align: center;
+}
+
+.card{
+    background-color: rgba(12, 13, 66, 0.7);
+    height: 150px;
+}
+
+.container-fluid{
+    padding-left: 100px;
+}
+
+.nav-item{
+    padding-right: 36px;
+}
+
